@@ -1,2 +1,8 @@
 *.log
 .env
+
+# VS Code & Betriebssystem-Dateien (Windows / WSL / Linux)
+.vscode/
+Thumbs.db
+.DS_Store
+*.tmp
